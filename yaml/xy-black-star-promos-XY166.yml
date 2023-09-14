@@ -1,0 +1,91 @@
+---
+id: xyp-XY166
+name: M Gengar-EX
+supertype: Pokémon
+subtypes:
+- MEGA
+- EX
+hp: '210'
+types:
+- Psychic
+evolvesFrom: Gengar-EX
+rules:
+- 'Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your
+  turn ends.'
+- 'Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2
+  Prize cards.'
+attacks:
+- name: Hollow Geist
+  cost:
+  - Psychic
+  - Psychic
+  - Psychic
+  - Colorless
+  convertedEnergyCost: 4
+  damage: '120'
+  text: Your opponent's Active Pokémon is now Confused and Poisoned.
+weaknesses:
+- type: Darkness
+  value: "×2"
+resistances:
+- type: Fighting
+  value: "-20"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: xyp
+  name: XY Black Star Promos
+  series: XY
+  printedTotal: 211
+  total: 216
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: PR-XY
+  releaseDate: 2013/10/12
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/xyp/symbol.png
+    logo: https://images.pokemontcg.io/xyp/logo.png
+number: XY166
+artist: 5ban Graphics
+rarity: Promo
+nationalPokedexNumbers:
+- 94
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/xyp/XY166.png
+  large: https://images.pokemontcg.io/xyp/XY166_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/xyp-XY166
+  updatedAt: 2023/09/14
+  prices:
+    holofoil:
+      low: 23.0
+      mid: 29.99
+      high: 69.95
+      market: 40.57
+      directLow: 21.99
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/xyp-XY166
+  updatedAt: 2023/09/14
+  prices:
+    averageSellPrice: 26.32
+    lowPrice: 6.0
+    trendPrice: 25.86
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 26.31
+    lowPriceExPlus: 19.95
+    avg1: 26.0
+    avg7: 24.42
+    avg30: 24.99
+    reverseHoloAvg1: 25.0
+    reverseHoloAvg7: 23.42
+    reverseHoloAvg30: 19.55

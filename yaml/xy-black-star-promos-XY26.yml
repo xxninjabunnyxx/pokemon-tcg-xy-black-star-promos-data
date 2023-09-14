@@ -1,0 +1,91 @@
+---
+id: xyp-XY26
+name: Pyroar
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '100'
+types:
+- Fire
+evolvesFrom: Litleo
+attacks:
+- name: Crunch
+  cost:
+  - Fire
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '30'
+  text: Flip a coin. If heads, discard an Energy attached to your opponent's Active
+    Pokémon.
+- name: Royal Flare
+  cost:
+  - Fire
+  - Fire
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 4
+  damage: '120'
+  text: Discard 2 Energy attached to this Pokémon.
+weaknesses:
+- type: Water
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: xyp
+  name: XY Black Star Promos
+  series: XY
+  printedTotal: 211
+  total: 216
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: PR-XY
+  releaseDate: 2013/10/12
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/xyp/symbol.png
+    logo: https://images.pokemontcg.io/xyp/logo.png
+number: XY26
+artist: 5ban Graphics
+rarity: Promo
+flavorText: The male with the largest mane of fire is the leader of the pride.
+nationalPokedexNumbers:
+- 668
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/xyp/XY26.png
+  large: https://images.pokemontcg.io/xyp/XY26_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/xyp-XY26
+  updatedAt: 2023/09/14
+  prices:
+    holofoil:
+      low: 0.2
+      mid: 0.57
+      high: 9.95
+      market: 0.51
+      directLow: 0.3
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/xyp-XY26
+  updatedAt: 2023/09/14
+  prices:
+    averageSellPrice: 0.95
+    lowPrice: 0.2
+    trendPrice: 0.84
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 0.82
+    lowPriceExPlus: 0.4
+    avg1: 0.25
+    avg7: 0.99
+    avg30: 0.95
+    reverseHoloAvg1: 1.0
+    reverseHoloAvg7: 0.96
+    reverseHoloAvg30: 0.89

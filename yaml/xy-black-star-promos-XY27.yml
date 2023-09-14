@@ -1,0 +1,65 @@
+---
+id: xyp-XY27
+name: Champions Festival
+supertype: Trainer
+subtypes:
+- Stadium
+rules:
+- Once during each player's turn, if that player has 6 Pokémon in play, he or she
+  may heal 10 damage from each of his or her Pokémon.
+- This card stays in play when you play it. Discard this card if another Stadium card
+  comes into play. If another card with the same name is in play, you can't play this
+  card.
+set:
+  id: xyp
+  name: XY Black Star Promos
+  series: XY
+  printedTotal: 211
+  total: 216
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: PR-XY
+  releaseDate: 2013/10/12
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/xyp/symbol.png
+    logo: https://images.pokemontcg.io/xyp/logo.png
+number: XY27
+artist: Naoki Saito
+rarity: Promo
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/xyp/XY27.png
+  large: https://images.pokemontcg.io/xyp/XY27_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/xyp-XY27
+  updatedAt: 2023/09/14
+  prices:
+    holofoil:
+      low: 349.99
+      mid: 374.5
+      high: 399.0
+      market: 324.95
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/xyp-XY27
+  updatedAt: 2023/09/14
+  prices:
+    averageSellPrice: 0.0
+    lowPrice: 74.9
+    trendPrice: 117.48
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 29.83
+    lowPriceExPlus: 74.9
+    avg1: 120.0
+    avg7: 104.99
+    avg30: 43.16
+    reverseHoloAvg1: 19.95
+    reverseHoloAvg7: 24.56
+    reverseHoloAvg30: 24.56

@@ -1,0 +1,81 @@
+---
+id: xyp-XY198a
+name: M Camerupt-EX
+supertype: Pokémon
+subtypes:
+- MEGA
+- EX
+hp: '230'
+types:
+- Fire
+evolvesFrom: Camerupt-EX
+rules:
+- 'Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your
+  turn ends.'
+- 'Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2
+  Prize cards.'
+attacks:
+- name: Magma Eruption
+  cost:
+  - Fire
+  - Fire
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 4
+  damage: 120+
+  text: You may discard the top 3 cards of each player's deck. If you do, this attack
+    does 40 more damage for each Energy card you discarded in this way.
+weaknesses:
+- type: Water
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 4
+set:
+  id: xyp
+  name: XY Black Star Promos
+  series: XY
+  printedTotal: 211
+  total: 216
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: PR-XY
+  releaseDate: 2013/10/12
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/xyp/symbol.png
+    logo: https://images.pokemontcg.io/xyp/logo.png
+number: XY198a
+artist: 5ban Graphics
+rarity: Promo
+nationalPokedexNumbers:
+- 323
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/xyp/XY198a.png
+  large: https://images.pokemontcg.io/xyp/XY198a_hires.png
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/xyp-XY198a
+  updatedAt: 2023/09/14
+  prices:
+    averageSellPrice: 6.45
+    lowPrice: 3.5
+    trendPrice: 7.73
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 3.26
+    lowPriceExPlus: 4.0
+    avg1: 3.9
+    avg7: 7.94
+    avg30: 7.96
+    reverseHoloAvg1: 3.94
+    reverseHoloAvg7: 3.25
+    reverseHoloAvg30: 2.84
